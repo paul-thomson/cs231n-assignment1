@@ -1,0 +1,11 @@
+name: cs231n
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - future
+  - jupyter
+  - matplotlib
+  - numpy
+  - pillow
+  - scipy
